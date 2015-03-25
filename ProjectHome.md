@@ -1,0 +1,1 @@
+Honeyports is a small Python script to listen on a port and add firewall rules to block incoming connections.
